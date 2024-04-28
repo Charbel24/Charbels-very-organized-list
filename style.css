@@ -1,61 +1,24 @@
 h1{
-    color: blue;
     text-align: center;
+    background-color: aqua;
+}
+h2{
+    background-color: bisque;
+    border: 1px solid black;
+    display: block;
+    width: 375px;
     
+
 }
-img {
-    max-height: 100px;
-    margin-left:  1000px;
+div{
+    background-color: cadetblue;
+    display: inline-block ;
     padding: 20px;
+    margin-right: 50px;
 }
-
-.Canned {
-     
-    margin-left: 800px;
-    width: 200px;
-    height: 130px;
-    text-align: center;
-    background-color: rgb(179, 183, 228);
-   
-}
-.Pantry{
-text-align: center;
-margin-left: 800px;
-display: inline-block;
-background-color: rgb(154, 154, 202);
-}
-.Dry {
-    margin-left: 800px;
-width: 200px;
-height: 120px;
-text-align: center;
-background-color: rgb(179, 183, 228);
+img{
+    height: 147.138px;
+    border: 3px dotted;
+    padding: 10px;
 
 }
-
-    .veggies{  margin-left: 800px;
-        width: 200px;
-        height: 70px;
-        text-align: center;
-        background-color:  rgb(207, 22, 22)
-        
-
-    }
-
-    .Freezer{
-        text-align: center;
-margin-left: 800px;
-display: inline-block;
-background-color: rgb(168, 153, 83);
-    }
-    .Snacks{
-        display: inline-block;
-        vertical-align: top;
-        margin-left: 800px;
-        width: 200px;
-        height: 130px;
-        text-align: center;
-        background-color: rgb(207, 22, 22);
-       
-        
-    }
